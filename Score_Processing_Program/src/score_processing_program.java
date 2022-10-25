@@ -648,7 +648,7 @@ JOptionPane.showMessageDialog(null, "이미 있는 학번입니다.");
 		}
 		model.setDataVector(result, column);
 	}
-
+	
 	// 검색
 	private void search() {
 		String text = searchField.getText();
